@@ -9,7 +9,7 @@ It only includes the **user interface (UI)** part and is made for learning and d
 
 ## 🌐 Live Demo
 
-🔗 [View Live](https://youtube-clone-web-svcn.onrender.com)  
+🔗 [View Live](https://youtube-clone-webapp.onrender.com/)  
 _(Replace this link with your GitHub Pages link)_
 
 ---
@@ -25,7 +25,7 @@ _(Replace this link with your GitHub Pages link)_
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](https://youtube-clone-web-svcn.onrender.com)
+![Home Page](https://youtube-clone-webapp.onrender.com/)
 
 ---
 
